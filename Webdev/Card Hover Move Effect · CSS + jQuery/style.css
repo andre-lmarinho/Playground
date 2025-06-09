@@ -1,0 +1,7 @@
+.js-hover-move {
+    will-change: transform;
+}
+
+.js-hover-move:hover {
+    box-shadow: 0 8px 60px 0 rgba(12,40,70,0.22), 0 12px 90px 0 rgba(12,40,70,0.22);
+}

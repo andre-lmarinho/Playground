@@ -1,0 +1,24 @@
+body:not(.et-fb) .mtc_element_2,
+body:not(.et-fb) .mtc_element_3,
+body:not(.et-fb) .mtc_element_4,
+body:not(.et-fb) .mtc_element_5,
+body:not(.et-fb) .show-on-click,
+body:not(.et-fb) .toggle-on-click {
+    display: none;
+}
+
+.mtc_button {
+    cursor: pointer;  
+}
+
+.mtc_button_opened .et_pb_module_header {
+    color: #20292f;
+}
+
+.mtc_button_opened .et-pb-icon {
+    color: #10e375!important;
+}
+
+.mtc_button_closed .et_pb_module_header {
+    color:#626f81;
+}
