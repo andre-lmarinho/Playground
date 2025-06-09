@@ -18,3 +18,6 @@ Cada pasta representa um experimento ou projeto isolado. Alguns podem estar inac
 ## Aviso
 
 Este repositório não segue um padrão de produção. É um ambiente livre para aprender, errar e testar ideias sem compromisso.
+
+
+Atualizado!
