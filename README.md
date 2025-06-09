@@ -14,7 +14,6 @@ Aqui você vai encontrar:
 
 Cada pasta representa um experimento ou projeto isolado. Alguns podem estar inacabados ou ser apenas rascunhos técnicos.
 
----
 
 ## Aviso
 
