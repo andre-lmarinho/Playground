@@ -14,7 +14,6 @@ This CSS snippet applies various visual improvements and behavior fixes to the *
 - Styles CTA buttons with background color, gradient, rounded corners, and hover effects.
 - Includes responsive spacing for desktop and mobile.
 
-
 ### 📱 Mobile Submenus:
 - Fixes submenu visibility and toggle behavior.
 - Adds custom toggle icons (open/close).

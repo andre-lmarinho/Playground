@@ -1,23 +1,22 @@
 # Playground
 
-Repositório para experimentos, testes e pequenos projetos de estudo.
+Repository for experiments, tests, and small study projects.
 
-Aqui você vai encontrar:
-- Protótipos de sites e componentes
-- Scripts utilitários e automações
-- Testes com bibliotecas e frameworks
-- Estudos de APIs e integrações
+Here you’ll find:
+- Courses and exercises
+- Website and UI prototypes
+- Utility scripts and automations
+- Tests with libraries and frameworks
+- API and integration experiments
 
 ---
 
-## Organização
+## Structure
 
-Cada pasta representa um experimento ou projeto isolado. Alguns podem estar inacabados ou ser apenas rascunhos técnicos.
+Each folder represents an isolated experiment or project.  
+Some may be unfinished or just technical drafts.
 
+## Disclaimer
 
-## Aviso
-
-Este repositório não segue um padrão de produção. É um ambiente livre para aprender, errar e testar ideias sem compromisso.
-
-
-Atualizado!
+This repository is not intended to follow production standards.  
+It’s a free space to learn, break things, and test ideas without pressure.
