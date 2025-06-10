@@ -4,7 +4,7 @@
 |                     |                                                                                              |
 |---------------------|----------------------------------------------------------------------------------------------|
 | **Institution**     | Harvard University (edX)                                                                     |
-| **Year**            | 2024 (self-paced, online)                                                                    |
+| **Year**            | 2025 (self-paced, online)                                                                    |
 | **Completion**      | Full coursework completed — audited track (no paid certificate)                              |
 | **Focus Areas**     | Algorithms • Data Structures • C • Python • SQL • HTML & CSS • JavaScript • Flask • Git      |
 
