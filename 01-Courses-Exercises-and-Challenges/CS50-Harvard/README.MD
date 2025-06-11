@@ -24,3 +24,8 @@
 | **CS50 Shell** | Unix-like command interpreter supporting pipelines and I/O redirection | C |
 | **Harvard Houses** | Data-driven visualization of Boston housing statistics | Python · Pandas · Matplotlib |
 | **Final Project – “MarketMe”** | Generator of responsive lead-capture landing pages for small businesses | HTML · CSS · JavaScript |
+
+
+### Problem Sets
+- Week0: Scrambble
+- Week1: Hello, Mario More and Credit
