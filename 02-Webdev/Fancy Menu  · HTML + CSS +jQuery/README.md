@@ -12,7 +12,10 @@ Custom implementation of a **slide-in mobile menu** using jQuery and CSS transit
 - CSS transitions for smooth UX
 
 #### How to Use?
-Put this HTML on a Text Module
-<span class="line line-1"></span>
-<span class="line line-2"></span>
-<span class="line line-3"></span>
+1. Put this HTML on a Text Module
+    <span class="line line-1"></span>
+    <span class="line line-2"></span>
+    <span class="line line-3"></span>
+
+2. Create a <div> and put this CSS Class
+    Line/Collum: slide-in-menu-container
