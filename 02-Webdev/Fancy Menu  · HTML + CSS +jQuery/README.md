@@ -11,11 +11,21 @@ Custom implementation of a **slide-in mobile menu** using jQuery and CSS transit
 - Responsive layout fix by dynamically adjusting padding-top
 - CSS transitions for smooth UX
 
-#### How to Use?
-1. Put this HTML on a Text Module
+### ⚙️ How to Implement
+
+1. **Insert the HTML** into a Text Module:
+
+    ```html
     <span class="line line-1"></span>
     <span class="line line-2"></span>
     <span class="line line-3"></span>
+    ```
 
-2. Create a <div> and put this CSS Class
-    Line/Collum: slide-in-menu-container
+2. **Create a `<div>`** and apply the following CSS class:
+
+    ```
+    slide-in-menu-container
+    ```
+
+    *(You can place your menu content inside this `<div>`.)*
+
