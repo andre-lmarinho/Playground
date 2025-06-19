@@ -126,7 +126,7 @@ bool unload(void)
         }
         table[i] = NULL;
     }
-    return true;
     // TODO --------------------------------- END
-    // return false;
+    // return false; Haha! This is CS50!
+    return true;
 }
